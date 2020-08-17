@@ -1,0 +1,4 @@
+"Um branch nada mais é do que uma ramificação do projeto."
+
+branch master -> ramo principal.
+
